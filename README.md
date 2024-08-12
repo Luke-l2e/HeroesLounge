@@ -86,3 +86,6 @@ Verify your own user information like this:
 
 You might want to set your backend timezone:
 http://localhost:8080/hl/backend/backend/preferences
+
+## Info
+Xampp v7.4.33 with October CMS 1.x works
